@@ -1,8 +1,7 @@
 # ISO-SWIFT - A SWIFT validation/lookup Ruby gem.
 
-[![Build Status](https://secure.travis-ci.org/hugolantaume/iso-swift.png?branch=master)](http://travis-ci.org/hugolantaume/iso-swift)
-[![Gem Version](https://badge.fury.io/rb/credit_card_bins.svg)](http://badge.fury.io/rb/iso-swift)
-[![Coverage Status](https://coveralls.io/repos/hugolantaume/iso-swift/badge.png?branch=master)](https://coveralls.io/r/hugolantaume/iso-swift?branch=master)
+[![Continuous Integration](https://github.com/aifinyo-ag/iso-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/aifinyo-ag/iso-swift/actions/workflows/ci.yml)
+
 
 Swift code (ISO 9362/SWIFT-BIC/BIC code/SWIFT ID) is a standard format of Bank Identifier Codes (BIC) and it is unique identification code for a particular bank.
 ISO::SWIFT implements the Swift specification as per ISO 9362.
